@@ -3,4 +3,4 @@
 Its is a Plant vs Zombies clone made in Unity.
 
 ###Screenshot
-![Screenshot](Screenshots/02 Level_03.PNG)
+![Screenshot](https://raw.githubusercontent.com/muditsaxena1/Glitch-Garden/master/Screenshots/02%20Level_03.PNG)
